@@ -1,2 +1,0 @@
-# PracticeStyledComponents
-Created with CodeSandbox
